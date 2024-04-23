@@ -1,6 +1,6 @@
 
 
-def cancellation(list, stop_word):
+def cancellation(input_list, stop_word):
     '''
     Copy elements one by one from input_list into output_list. 
     If one of the elements is equal to the stop_word, then stop the function,
