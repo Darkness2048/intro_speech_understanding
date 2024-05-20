@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def center_of_gravity(x):
     '''
     Find the center of gravity of a vector, x.
