@@ -9,7 +9,8 @@ def list_to_dict(input_list):
     Returns:
     dict: A dictionary where keys are numerical indices and values are elements from the input list.
     """ 
-    result_dict = {}
-    for index, value in enumerate(input_list):
-        result_dict[index] = value
-    return result_dict
+    
+    mydict={}
+    for k,v in enumerate(input_list):
+        mydict{k}=v
+    return{mydict} 
